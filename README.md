@@ -1,6 +1,6 @@
 # python_small_projects
 
-This repository Contains many Small python Projects That helpful for Beginners.
+    This repository Contains many Small python Projects That helpful for Beginners.
 
 # Snake Water and Gun Game
     
